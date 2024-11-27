@@ -5,7 +5,7 @@
 
 ## SourceCode
 > - [Vertex Shader](https://github.com/ZenDeiAn/WemadeNext_CodingTest_CNN_HLSL/blob/main/SHADERed/Project/shaders/MainVS.hlsl)
-> - [Pixel Shader](https://github.com/ZenDeiAn/WemadeNext_CodingTest_CNN_HLSL/blob/main/SHADERed/Project/shaders/MainPS.hlsl)
+> - <b>*[Pixel Shader](https://github.com/ZenDeiAn/WemadeNext_CodingTest_CNN_HLSL/blob/main/SHADERed/Project/shaders/MainPS.hlsl)</b>
 
 ## How to run code
 > 1. Run '\SHADERed\SHADERed.exe'
