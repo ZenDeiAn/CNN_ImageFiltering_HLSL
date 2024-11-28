@@ -1,5 +1,3 @@
-# Source code for WemadeNext coding test q.15
-
 ## Result 
 ![Result Image](/Result.jpg "Result")
 
